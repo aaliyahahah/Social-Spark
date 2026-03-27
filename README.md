@@ -7,7 +7,7 @@
 
 ## Links
 - **GitHub Repository**: [https://github.com/aaliyahahah/Social-Spark/tree/master]
-- **YouTube Video**: [PASTE YOUR VIDEO LINK]
+- **YouTube Video**: [https://youtu.be/Qmf2el5hgQ4]
 
 ---
 
