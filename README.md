@@ -83,7 +83,7 @@ Reset output
 
 ### Video Demo:
 A full demonstration of the app can be viewed here:  
-👉 [PASTE YOUR YOUTUBE LINK]
+👉 [https://youtu.be/Qmf2el5hgQ4]
 
 ---
 
